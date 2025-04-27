@@ -2,7 +2,7 @@
 
 # Lecture Assessment Management System
 
-A Windows Forms application designed for university lecturers to manage courses, assignments, students, and assessment rubrics. This application is part of the Applied Programming (COM537) module.
+A Windows Forms application designed for university lecturers to manage courses, assignments, students, and assessment rubrics.
 
 ## Features
 
